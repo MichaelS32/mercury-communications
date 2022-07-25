@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    background-image: url(../images/mercuryhero.png);
+    height: 100%;
+    background-size: cover;
+}
